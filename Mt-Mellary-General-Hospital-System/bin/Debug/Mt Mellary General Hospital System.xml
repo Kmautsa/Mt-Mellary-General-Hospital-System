@@ -1,0 +1,591 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mt Mellary General Hospital System
+</name>
+</assembly>
+<members>
+<member name="T:Mt_Mellary_General_Hospital_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.IMG_20200602_WA0033">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.IMG_20200602_WA0034">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.IMG_20200602_WA0036">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.IMG_20200602_WA0038">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.IMG_20200602_WA0039">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.IMG_20200602_WA0043">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.IMG_20200602_WA0047">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.IMG_20200602_WA0049">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mt_Mellary_General_Hospital_System.My.Resources.Resources.IMG_20200602_WA0051">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocter">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocter.Add_DocterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocter.Add_DocterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocter.Add_DocterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterTableAdapters.Add_DocterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterTableAdapters.TableAdapterManager.UpdateUpdatedRows(Mt_Mellary_General_Hospital_System.AddDocter,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterTableAdapters.TableAdapterManager.UpdateInsertedRows(Mt_Mellary_General_Hospital_System.AddDocter,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterTableAdapters.TableAdapterManager.UpdateDeletedRows(Mt_Mellary_General_Hospital_System.AddDocter,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterTableAdapters.TableAdapterManager.UpdateAll(Mt_Mellary_General_Hospital_System.AddDocter)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterDataSet.Add_DocterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterDataSet.Add_DocterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterDataSet.Add_DocterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterDataSetTableAdapters.Add_DocterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Mt_Mellary_General_Hospital_System.AddDocterDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Mt_Mellary_General_Hospital_System.AddDocterDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Mt_Mellary_General_Hospital_System.AddDocterDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddDocterDataSetTableAdapters.TableAdapterManager.UpdateAll(Mt_Mellary_General_Hospital_System.AddDocterDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddDocterDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddNurseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddNurseDataSet.Add_NurseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddNurseDataSet.Add_NurseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddNurseDataSet.Add_NurseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddNurseDataSetTableAdapters.Add_NurseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddNurseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddNurseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Mt_Mellary_General_Hospital_System.AddNurseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddNurseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Mt_Mellary_General_Hospital_System.AddNurseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddNurseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Mt_Mellary_General_Hospital_System.AddNurseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddNurseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AddNurseDataSetTableAdapters.TableAdapterManager.UpdateAll(Mt_Mellary_General_Hospital_System.AddNurseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddNurseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AddNurseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.Add_Docter">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.Add_Docter.Add_DocterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.Add_Docter.Add_DocterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.Add_Docter.Add_DocterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.Add_DocterTableAdapters.Add_DocterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.Add_DocterTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.Add_DocterTableAdapters.TableAdapterManager.UpdateUpdatedRows(Mt_Mellary_General_Hospital_System.Add_Docter,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.Add_DocterTableAdapters.TableAdapterManager.UpdateInsertedRows(Mt_Mellary_General_Hospital_System.Add_Docter,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.Add_DocterTableAdapters.TableAdapterManager.UpdateDeletedRows(Mt_Mellary_General_Hospital_System.Add_Docter,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.Add_DocterTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.Add_DocterTableAdapters.TableAdapterManager.UpdateAll(Mt_Mellary_General_Hospital_System.Add_Docter)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.Add_DocterTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.Add_DocterTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSet.Admited_PatientsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSet.Admited_PatientsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSet.Admited_PatientsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSetTableAdapters.Admited_PatientsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSetTableAdapters.TableAdapterManager.UpdateAll(Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.AdmitedPatientsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.CriticalPatientDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.CriticalPatientDataSet.Critical_PatientsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.CriticalPatientDataSet.Critical_PatientsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.CriticalPatientDataSet.Critical_PatientsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.CriticalPatientDataSetTableAdapters.Critical_PatientsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.CriticalPatientDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.CriticalPatientDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Mt_Mellary_General_Hospital_System.CriticalPatientDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.CriticalPatientDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Mt_Mellary_General_Hospital_System.CriticalPatientDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.CriticalPatientDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Mt_Mellary_General_Hospital_System.CriticalPatientDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.CriticalPatientDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.CriticalPatientDataSetTableAdapters.TableAdapterManager.UpdateAll(Mt_Mellary_General_Hospital_System.CriticalPatientDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.CriticalPatientDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.CriticalPatientDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.DischargedPatientDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.DischargedPatientDataSet.Discharged_PatientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.DischargedPatientDataSet.Discharged_PatientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.DischargedPatientDataSet.Discharged_PatientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.DischargedPatientDataSetTableAdapters.Discharged_PatientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.DischargedPatientDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.DischargedPatientDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Mt_Mellary_General_Hospital_System.DischargedPatientDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.DischargedPatientDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Mt_Mellary_General_Hospital_System.DischargedPatientDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.DischargedPatientDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Mt_Mellary_General_Hospital_System.DischargedPatientDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.DischargedPatientDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.DischargedPatientDataSetTableAdapters.TableAdapterManager.UpdateAll(Mt_Mellary_General_Hospital_System.DischargedPatientDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.DischargedPatientDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.DischargedPatientDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.StockDeliveryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.StockDeliveryDataSet.Stock_DeliveryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.StockDeliveryDataSet.Stock_DeliveryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.StockDeliveryDataSet.Stock_DeliveryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.StockDeliveryDataSetTableAdapters.Stock_DeliveryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.StockDeliveryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.StockDeliveryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Mt_Mellary_General_Hospital_System.StockDeliveryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.StockDeliveryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Mt_Mellary_General_Hospital_System.StockDeliveryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.StockDeliveryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Mt_Mellary_General_Hospital_System.StockDeliveryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.StockDeliveryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Mt_Mellary_General_Hospital_System.StockDeliveryDataSetTableAdapters.TableAdapterManager.UpdateAll(Mt_Mellary_General_Hospital_System.StockDeliveryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.StockDeliveryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Mt_Mellary_General_Hospital_System.StockDeliveryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
