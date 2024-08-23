@@ -1,0 +1,54 @@
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.exe.config
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital  Management System.accdb
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.exe
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.pdb
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.xml
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form1.resources
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form2.resources
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form3.resources
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Resources.resources
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.vbproj.GenerateResource.Cache
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.exe
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.xml
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.pdb
+c:\users\lee\documents\visual studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form4.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.exe.config
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.exe
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.xml
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.pdb
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital  Management System.accdb
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.exe
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.pdb
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.xml
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form1.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form2.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form3.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form4.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form5.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form6.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form7.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form8.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form9.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Resources.resources
+C:\Users\ishea\Documents\Visual Studio 2012\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.vbproj.GenerateResource.Cache
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital  Management System.accdb
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.exe.config
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.exe
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.pdb
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\bin\Debug\Mt Mellary General Hospital System.xml
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.vbproj.AssemblyReference.cache
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form1.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form2.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form3.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form4.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form5.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form6.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form7.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form8.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Form9.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt_Mellary_General_Hospital_System.Resources.resources
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.vbproj.GenerateResource.cache
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.vbproj.CoreCompileInputs.cache
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.exe
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.xml
+C:\Users\Delli\Desktop\Duckto\beta 1\Projects\Mt Mellary General Hospital System\Mt Mellary General Hospital System\obj\Debug\Mt Mellary General Hospital System.pdb
